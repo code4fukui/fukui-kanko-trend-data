@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-02-13T12:02:17.829Z",
+  "area_count": 13,
+  "location_count": 47,
+  "areas": [
+    {
+      "area_id": "f61af447-5fca-43f0-ad87-21245c01fede",
+      "area_name": "あわら市",
+      "filename": "2025/area_あわら市_f61af447-5fca-43f0-ad87-21245c01fede_daily_metrics.csv"
+    },
+    {
+      "area_id": "f46ff483-8f76-4039-8cc7-c52f52ae95a3",
+      "area_name": "池田町",
+      "filename": "2025/area_池田町_f46ff483-8f76-4039-8cc7-c52f52ae95a3_daily_metrics.csv"
+    },
+    {
+      "area_id": "03fca8ec-a9a9-4fa3-be9d-5edadab1b4ae",
+      "area_name": "おおい町",
+      "filename": "2025/area_おおい町_03fca8ec-a9a9-4fa3-be9d-5edadab1b4ae_daily_metrics.csv"
+    },
+    {
+      "area_id": "d67f29ed-a1eb-4178-8503-2800e3f8497b",
+      "area_name": "永平寺町",
+      "filename": "2025/area_永平寺町_d67f29ed-a1eb-4178-8503-2800e3f8497b_daily_metrics.csv"
+    },
+    {
+      "area_id": "80abea0b-8c67-462d-b8a3-c4fc65e7133b",
+      "area_name": "越前市",
+      "filename": "2025/area_越前市_80abea0b-8c67-462d-b8a3-c4fc65e7133b_daily_metrics.csv"
+    },
+    {
+      "area_id": "bd1cb9f6-fc7b-427f-a03a-85dab9489ca3",
+      "area_name": "勝山市",
+      "filename": "2025/area_勝山市_bd1cb9f6-fc7b-427f-a03a-85dab9489ca3_daily_metrics.csv"
+    },
+    {
+      "area_id": "45b5f4d6-7765-4349-905e-74684f0e1469",
+      "area_name": "南越前町",
+      "filename": "2025/area_南越前町_45b5f4d6-7765-4349-905e-74684f0e1469_daily_metrics.csv"
+    },
+    {
+      "area_id": "ea202c6d-9067-45c0-ac14-75ef8f9b318e",
+      "area_name": "高浜町",
+      "filename": "2025/area_高浜町_ea202c6d-9067-45c0-ac14-75ef8f9b318e_daily_metrics.csv"
+    },
+    {
+      "area_id": "24e046ef-19ed-4fab-9317-ab03dd0e1bde",
+      "area_name": "敦賀市",
+      "filename": "2025/area_敦賀市_24e046ef-19ed-4fab-9317-ab03dd0e1bde_daily_metrics.csv"
+    },
+    {
+      "area_id": "3cfcac9e-1cac-4821-9ad2-43577ce977c8",
+      "area_name": "若狭町",
+      "filename": "2025/area_若狭町_3cfcac9e-1cac-4821-9ad2-43577ce977c8_daily_metrics.csv"
+    },
+    {
+      "area_id": "12533232-a564-4c59-86a6-4d034459b933",
+      "area_name": "小浜市",
+      "filename": "2025/area_小浜市_12533232-a564-4c59-86a6-4d034459b933_daily_metrics.csv"
+    },
+    {
+      "area_id": "9b909a7c-4e02-451f-83b3-c3a38c00c7cd",
+      "area_name": "美浜町",
+      "filename": "2025/area_美浜町_9b909a7c-4e02-451f-83b3-c3a38c00c7cd_daily_metrics.csv"
+    },
+    {
+      "area_id": "05832ba9-3b67-4425-99a8-63692925e644",
+      "area_name": "大野市",
+      "filename": "2025/area_大野市_05832ba9-3b67-4425-99a8-63692925e644_daily_metrics.csv"
+    }
+  ]
+}
