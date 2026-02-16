@@ -1,6 +1,6 @@
 date,map_views,search_views,directions,call_clicks,website_clicks,average_rating,review_count_change,review_count_by_rating_1,review_count_by_rating_2,review_count_by_rating_3,review_count_by_rating_4,review_count_by_rating_5
 2026-01-01,307,58,25,1,16,0,0,0,0,0,0,0
-2026-01-02,321,80,33,0,23,0,1,1,0,0,0,0
+2026-01-02,321,80,33,0,23,1,1,1,0,0,0,0
 2026-01-03,341,99,35,4,35,0,1,0,1,0,0,0
 2026-01-04,456,196,42,3,35,0,0,0,0,0,0,0
 2026-01-05,346,76,24,2,26,0,2,0,0,0,0,2
