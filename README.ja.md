@@ -1,13 +1,18 @@
 # fukui-kanko-trend-data
-日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-このリポジトリには、日本の福井県の各地域に関する観光関連データが含まれています。このデータには、マップビュー、検索ビュー、ルート案内、電話クリック、ウェブサイトクリック、平均評価、レビュー数の変化などの日次メトリクスが含まれています。
+> English README: [README.md](README.md)
+コードフォクui による Web/Code プロジェクト。
 
-## データ / API
-データは年別のディレクトリ (`2024`、`2025`、`2026`) に整理されており、各ディレクトリには利用可能な地域とそれに対応するデータファイルのリストを含む `metadata.json` ファイルが含まれています。地域データファイルは `area_{area_name}_{area_id}_daily_metrics.csv` という形式で名付けられており、各地域の日別メトリックスが含まれています。
+**ライブデモ**: https://code4fukui.github.io/fukui-kanko-trend-data/
 
-## 使い方
-データを使用するには、リポジトリから直接CSVファイルにアクセスできます。`metadata.json`ファイルには、利用可能な地域とそれに対応するデータファイルの情報が記載されています。
+## インストールと設定
+
+ビルド手順は不要です。リポジトリをクローンし、ブラウザで `index.html` を開くか、ライブデモにアクセスしてください: https://code4fukui.github.io/fukui-kanko-trend-data/
+
+## 寄付への参加
+
+参加は歓迎です。GitHub上でIssue（問題）やPull Request（取り込み依頼）を開いてください。
 
 ## ライセンス
-このプロジェクトは [MIT License](LICENSE) のもとで公開されています。
+
+MIT ライセンス。詳細は [LICENSE](./LICENSE) をご覧ください。
