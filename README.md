@@ -1,5 +1,8 @@
 # fukui-kanko-trend-data
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+
 A Web/Code project by [Code for FUKUI](https://github.com/code4fukui).
 
 **Live demo**: https://code4fukui.github.io/fukui-kanko-trend-data/
