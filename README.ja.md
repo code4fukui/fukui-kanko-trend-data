@@ -3,11 +3,10 @@
 > English README: [README.md](README.md)
 コードフォクui による Web/Code プロジェクト。
 
-**ライブデモ**: https://code4fukui.github.io/fukui-kanko-trend-data/
 
 ## インストールと設定
 
-ビルド手順は不要です。リポジトリをクローンし、ブラウザで `index.html` を開くか、ライブデモにアクセスしてください: https://code4fukui.github.io/fukui-kanko-trend-data/
+ビルド手順は不要です。リポジトリをクローンし、ブラウザで `index.html` を開くか、
 
 ## 寄付への参加
 
