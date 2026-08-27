@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T19:00:15.864Z",
-  "area_count": 13,
+  "generated_at": "2026-08-27T19:00:15.735Z",
+  "area_count": 14,
   "location_count": 49,
   "areas": [
     {
@@ -67,6 +67,11 @@
       "area_id": "05832ba9-3b67-4425-99a8-63692925e644",
       "area_name": "大野市",
       "filename": "2026/area_大野市_05832ba9-3b67-4425-99a8-63692925e644_daily_metrics.csv"
+    },
+    {
+      "area_id": "b1db59b4-1bc3-454c-855f-4742eb581299",
+      "area_name": "坂井市",
+      "filename": "2026/area_坂井市_b1db59b4-1bc3-454c-855f-4742eb581299_daily_metrics.csv"
     }
   ]
 }
